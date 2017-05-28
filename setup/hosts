@@ -1,0 +1,6 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+centos-master   192.168.121.9
+centos-minion-1 192.168.121.65
+centos-minion-2 192.168.121.66
+centos-minion-3 192.168.121.67
